@@ -110,9 +110,9 @@ Olá, me chamo Arthur Faturini. Me apaixonei pela tecnologia, pois com ela posso
 
 <p align="center">
   <a href="https://github.com/ArthurFaturini/Sistema-PDV">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArthurFaturini&repo=Sistema-PDV&theme=dracula" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArthurFaturini&repo=Sistema-PDV&theme=dracula" />
   </a>
   <a href="https://github.com/ArthurFaturini/Forneria-Faturini">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArthurFaturini&repo=Forneria-Faturini&theme=dracula" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArthurFaturini&repo=Forneria-Faturini&theme=dracula" />
   </a>
 </p>
