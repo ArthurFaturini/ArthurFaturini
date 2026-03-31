@@ -97,29 +97,18 @@ Olá, me chamo Arthur Faturini. Me apaixonei pela tecnologia, pois com ela posso
     src="https://github-readme-stats.vercel.app/api?username=ArthurFaturini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />  -->
 
-<img 
-      align="left" 
+<img  
       alt="GitHub Stats" 
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFaturini&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 ### 🚀 Projetos em Destaque
 
-<p style="display: flex" align="center">
+<p align="center">
   <a href="https://github.com/ArthurFaturini/Sistema-PDV">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurFaturini&repo=Sistema-PDV&theme=dracula" />
   </a>
