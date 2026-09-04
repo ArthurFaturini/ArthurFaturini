@@ -11,7 +11,7 @@ Olá, me chamo Arthur Faturini. Me apaixonei pela tecnologia, pois com ela posso
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-faturini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arthurfaturinirpa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-e--mail-red?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="seu_link_do_discord" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+  <!-- <a href="seu_link_do_discord" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a> -->
 </div>
 
 <!-- Estrutura de Ícones -->
