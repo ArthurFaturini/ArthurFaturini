@@ -1,118 +1,83 @@
-# 🧑‍💻 Arthur Faturini
+<!-- Cabeçalho -->
+<div align="center">
+  <h1>Arthur Faturini 👋</h1>
+  <p><strong>Desenvolvedor de Software • Análise e Desenvolvimento de Sistemas</strong></p>
+</div>
 
-**`Desenvolvedor`**
-
+<!-- Bio -->
 Olá, me chamo Arthur Faturini. Me apaixonei pela tecnologia, pois com ela posso criar qualquer coisa. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na UFPR. Sou membro da Ecomp (Empresa Júnior de Computação da UFPR). Tenho projetos interessantes a serem feitos, então me acompanhe por aqui.
 
-### 🤖 Linguagens e Tecnologias
+<!-- Badges de Contato -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthur-faturini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arthurfaturinirpa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-e--mail-red?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="seu_link_do_discord" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
+
+<!-- Estrutura de Ícones -->
+## Linguagens e Tecnologias
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <h3>Frontend</h3>
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="Tecnologias Frontend" />
+      </div>
+    </td>
+    <td width="40%">
+      <h3>Linguagens</h3>
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=c,cpp,php,laravel,python,mysql" alt="Linguagens" />
+      </div>
+    </td>
+    <td width="45%">
+      <h3>Ferramentas</h3>
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,obsidian" alt="Outras Ferramentas" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Seção de Estatísticas -->
+## 📊 Estatísticas
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurFaturini&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=ArthurFaturini&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ArthurFaturini&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=ArthurFaturini&layout=compact&langs_count=4&theme=transparent)
 
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+<!-- Projetos em Destaque Manuais -->
+## 🚀 Projetos em Destaque
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ArthurFaturini&repo=ArthurFaturini%2FSistema-PDV&description_lines_count=2&theme=transparent)](https://github.com/ArthurFaturini/Sistema-PDV) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ArthurFaturini&repo=ArthurFaturini%2FForneria-Faturini&description_lines_count=2&theme=transparent)](https://github.com/ArthurFaturini/Forneria-Faturini)
 
-<br/>
-<br/>
+<!-- Ideias de Projetos -->
+## 🛠️ Ideias de Projetos
+
+### 🎮 Gerenciador Intuitivo para Servidores de Jogos
+
+- **Objetivo:** Democratizar e automatizar a criação de servidores de jogos para usuários comuns, gerenciando desde a instalação de dependências até a conexão direta com o túnel do Playit.gg.
+
+- **Stack Planejada:** Python, HTML, CSS (Tailwind) e JavaScript.
+
+- **Status:** 🟡 Planejamento estrutural; aguardando disponibilidade de agenda.
+
+### 🎼 Analisador Musical com Machine Learning
+
+- **Objetivo:** Avaliar o grau de complexidade teórica de composições musicais através de algoritmos. O projeto prevê expansão para uma plataforma web colaborativa.
+
+- **Stack Planejada:** Python, PHP/Laravel, MariaDB/MySQL, HTML, CSS e JS.
+
+- **Status:** 🔴 Fase inicial de ideação e rascunho de arquitetura.
+
+### 🤖 Assistente Virtual Autônomo (J.A.R.V.I.S. Local)
+
+- **Objetivo:** Desenvolver uma IA responsiva rodando 100% localmente para atuar como assistente pessoal, executando comandos operacionais no computador e interagindo com softwares de rotina.
+
+- **Stack Planejada:** Python, Ollama ou LMStudio e tecnologias Web padrão.
+
+- **Status:** 🔴 Descoberta recente; iniciando pesquisa sobre viabilidade técnica.
+
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-<!-- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurFaturini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>  -->
-
-<img  
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurFaturini&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-</p>
-
----
-
-### 🚀 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/ArthurFaturini/Sistema-PDV">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArthurFaturini&repo=Sistema-PDV&theme=dracula" />
-  </a>
-  <a href="https://github.com/ArthurFaturini/Forneria-Faturini">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArthurFaturini&repo=Forneria-Faturini&theme=dracula" />
-  </a>
-</p>
+<p align="center">Feito por <i>Arthur Faturini</i>!</p>
