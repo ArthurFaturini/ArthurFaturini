@@ -5,7 +5,7 @@
 </div>
 
 <!-- Bio -->
-Olá, me chamo Arthur Faturini. Me apaixonei pela tecnologia, pois com ela posso criar qualquer coisa. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na UFPR. Sou membro da Ecomp (Empresa Júnior de Computação da UFPR). Tenho projetos interessantes a serem feitos, então me acompanhe por aqui.
+Olá, sou o Arthur Faturini! Desenvolvedor apaixonado por transformar ideias complexas e mirabolantes em projetos reais e úteis. Atualmente, curso Análise e Desenvolvimento de Sistemas na UFPR. Sou Assessor de Desenvolvimento Humano na Ecomp (Empresa Júnior de Computação da UFPR). Estou sempre construindo e pensando em algo novo. Acompanhe meus repositórios para ver essas ideias saindo do papel!
 
 <!-- Badges de Contato -->
 <div align="center">
