@@ -49,7 +49,8 @@ Olá, sou o Arthur Faturini! Desenvolvedor apaixonado por transformar ideias com
 <!-- Projetos em Destaque Manuais -->
 ## 🚀 Projetos em Destaque
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ArthurFaturini&repo=ArthurFaturini%2FSistema-PDV&description_lines_count=2&theme=transparent)](https://github.com/ArthurFaturini/Sistema-PDV) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ArthurFaturini&repo=ArthurFaturini%2FForneria-Faturini&description_lines_count=2&theme=transparent)](https://github.com/ArthurFaturini/Forneria-Faturini)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ArthurFaturini&repo=ArthurFaturini%2Flocal-voice-assistant&description_lines_count=2&theme=transparent)](https://github.com/ArthurFaturini/local-voice-assistant)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ArthurFaturini&repo=ArthurFaturini%2FSistema-PDV&description_lines_count=2&theme=transparent)](https://github.com/ArthurFaturini/Sistema-PDV)
 
 <!-- Ideias de Projetos -->
 ## 🛠️ Ideias de Projetos
@@ -69,15 +70,6 @@ Olá, sou o Arthur Faturini! Desenvolvedor apaixonado por transformar ideias com
 - **Stack Planejada:** Python, PHP/Laravel, MariaDB/MySQL, HTML, CSS e JS.
 
 - **Status:** 🔴 Fase inicial de ideação e rascunho de arquitetura.
-
-### 🤖 Assistente Virtual Autônomo (J.A.R.V.I.S. Local)
-
-- **Objetivo:** Desenvolver uma IA responsiva rodando 100% localmente para atuar como assistente pessoal, executando comandos operacionais no computador e interagindo com softwares de rotina.
-
-- **Stack Planejada:** Python, Ollama ou LMStudio e tecnologias Web padrão.
-
-- **Status:** 🔴 Descoberta recente; iniciando pesquisa sobre viabilidade técnica.
-
 
 ---
 <p align="center">Feito por <i>Arthur Faturini</i>!</p>
